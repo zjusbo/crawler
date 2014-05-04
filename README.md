@@ -4,6 +4,7 @@ Crawler
 A simple web crawler, implemented in Python.
 
 Author: Song Bo
+
 Last Update Date: 5/5/2014
 
 ###Install instruction
